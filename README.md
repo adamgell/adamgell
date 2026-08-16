@@ -53,8 +53,8 @@ ethos: correct over fast
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamgell&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgell&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=adamgell&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=adamgell&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
