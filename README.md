@@ -49,6 +49,8 @@ currently_building:
 
 The CMTrace replacement Windows admins have been waiting for — built in Rust, runs on **Windows, macOS, and Linux**. ConfigMgr/SCCM logs, Intune IME, Autopilot ESP diagnostics, DSRegCmd triage, `.evtx` viewing, real-time tailing, and built-in Windows error-code lookup. Free and open source, no MDT-era baggage.
 
+<a href="https://cmtraceopen.com"><img src="https://raw.githubusercontent.com/adamgell/cmtraceopen/main/screenshots/log-viewer.png" alt="cmtraceopen log viewer showing a ConfigMgr deployment log with color-coded severities and inline error-code lookup" /></a>
+
 **Get it:** download from [cmtraceopen.com](https://cmtraceopen.com) or the [latest release](https://github.com/adamgell/cmtraceopen/releases/latest).
 
 ### [GraphKit](https://github.com/adamgell/GraphKit) — Microsoft Graph at fleet scale
