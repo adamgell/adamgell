@@ -58,9 +58,5 @@ ethos: correct over fast
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adamgell/adamgell/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:1f6feb&height=100&section=footer" alt="footer" />
 </p>
