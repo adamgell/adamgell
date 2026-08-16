@@ -52,8 +52,12 @@ currently_building:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=adamgell&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=adamgell&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adamgell&theme=github_dark" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adamgell&theme=github_dark" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adamgell&theme=github-dark-blue&hide_border=true" height="170" alt="Contribution streak" />
 </p>
 
 <p align="center">
