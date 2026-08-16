@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adamgell/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/adam-gell/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://cmtraceopen.com"><img src="https://img.shields.io/badge/cmtraceopen.com-1f6feb?style=for-the-badge&logo=rust&logoColor=white" alt="cmtraceopen" /></a>
   <a href="https://www.powershellgallery.com/profiles/adamgell"><img src="https://img.shields.io/badge/PSGallery-2ea043?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Gallery" /></a>
 </p>
