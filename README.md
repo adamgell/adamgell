@@ -23,7 +23,8 @@ languages: [PowerShell, Rust, Python, Terraform]
 currently_building:
   - cmtraceopen   # cross-platform CMTrace replacement in Rust
   - GraphKit      # multi-tenant Graph execution layer for PowerShell
-  - TenantPulse   # read-only Intune/Entra tenant health assessment```
+  - TenantPulse   # read-only Intune/Entra tenant health assessment
+```
 
 ## 🛠️ Tools of the trade
 
